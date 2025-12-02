@@ -21,7 +21,7 @@ Pengguna dapat melakukan proses CRUD, cetak laporan, dan export laporan ke PDF.
 * Java JDK 8 (Java SE 8)
 * Hibernate ORM 5.x (versi default yang umum digunakan pada NetBeans 8.2)
 * JasperReports 6.x (mengikuti library bawaan praktikum)
-* Database MySQL
+* Database MySQL (XAMPP)
 
 ## Database
 
