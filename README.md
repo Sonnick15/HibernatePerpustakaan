@@ -41,7 +41,8 @@ Menggunakan *MySQL* (XAMPP) dengan tabel *buku* berisi kolom:
 2. Buat database baru bernama db_perpustakaan.
 3. Jalankan query berikut:
 
-  ```CREATE TABLE buku (
+```
+  CREATE TABLE buku (
   id INT AUTO_INCREMENT PRIMARY KEY,
   judul VARCHAR(100),
   penulis VARCHAR(100),
@@ -71,7 +72,8 @@ INSERT INTO buku (judul, penulis, kategori, tahun) VALUES
 4. Pastikan Hibernate Configuration (hibernate.cfg.xml) berisi koneksi:
 
 xml
-```<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/db_perpustakaan</property>
+```
+<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/db_perpustakaan</property>
 <property name="hibernate.connection.username">root</property>
 <property name="hibernate.connection.password"></property>
 ```
