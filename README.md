@@ -41,7 +41,6 @@ Menggunakan *MySQL* (XAMPP) dengan tabel *buku* berisi kolom:
 2. Buat database baru bernama db_perpustakaan.
 3. Jalankan query berikut:
 
-sql
 CREATE TABLE buku (
   id INT AUTO_INCREMENT PRIMARY KEY,
   judul VARCHAR(100),
