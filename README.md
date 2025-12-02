@@ -42,7 +42,7 @@ Menggunakan *MySQL* (XAMPP) dengan tabel *buku* berisi kolom:
 3. Jalankan query berikut:
 
 ```
-  CREATE TABLE buku (
+CREATE TABLE buku (
   id INT AUTO_INCREMENT PRIMARY KEY,
   judul VARCHAR(100),
   penulis VARCHAR(100),
