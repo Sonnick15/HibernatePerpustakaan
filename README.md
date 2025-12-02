@@ -1,7 +1,7 @@
 # Aplikasi CRUD Data Buku Perpustakaan
 
 Aplikasi ini dibuat untuk mengelola data buku perpustakaan menggunakan bahasa pemrograman *Java* dengan dukungan *Hibernate* sebagai ORM dan *JasperReports* sebagai generator laporan, sebagai bagian dari ujian praktikum.
-Pengguna dapat melakukan proses CRUD, pencarian data, cetak laporan, dan export laporan ke PDF.
+Pengguna dapat melakukan proses CRUD, cetak laporan, dan export laporan ke PDF.
 
 ## Fitur
 
