@@ -55,7 +55,6 @@ INSERT INTO buku (judul, penulis, kategori, tahun) VALUES
 ('Bumi Manusia', 'Pramoedya Ananta Toer', 'Sejarah', 1980),
 ('Atomic Habits', 'James Clear', 'Non-Fiksi', 2018);
 
-
 ### 2. Import Project ke NetBeans 8.2
 
 1. Buka NetBeans.
@@ -74,7 +73,6 @@ xml
 <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/db_perpustakaan</property>
 <property name="hibernate.connection.username">root</property>
 <property name="hibernate.connection.password"></property>
-
 
 ### 4. Menjalankan Aplikasi
 
